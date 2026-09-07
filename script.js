@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     /* Change this to your own PIN */
 
-    const correctPin = "852963";
+    const correctPin = "123456";
 
     const pinMessage = document.createElement("div");
 
